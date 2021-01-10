@@ -1,6 +1,6 @@
-RSA Encrytion program written by Milan Varghese.
+**RSA Encrytion program written by Milan Varghese.**
 
-How to run the program.
+**How to run the program.**
 
 Execute the program "RSA Algorithm.c" inside Code folder using a suitable c compiler.
 A menu will be displayed. Enter the number corresponding to the option to select it.
@@ -25,11 +25,11 @@ Menu option exit will only stop the program from running,
 You have to manually close the console to completly exit.
 
 
-Rules for entering the numbers step 1:
+**Rules for entering the numbers step 1:**
 
 1. Entered numbers should be prime numbers.
 2. The prime numbers should not be too small.
 3. The prime numbers should not be equal.
 4. Enter two prime numbers product should be greater than 256.
 
-for more info contact: msccs113@rajagiri.edu
+**for more info contact:** msccs113@rajagiri.edu
