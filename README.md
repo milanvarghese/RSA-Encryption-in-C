@@ -5,14 +5,14 @@
 Execute the program "RSA Algorithm.c" inside Code folder using a suitable c compiler.
 A menu will be displayed. Enter the number corresponding to the option to select it.
 
-Step 1: Enter option 1 from menu to Generate key pairs. 
+**Step 1:** Enter option 1 from menu to Generate key pairs. 
 	Take note of the key pairs entered.
 
-Step 2: Enter option 2 from menu to encrypt a message.
+**Step 2:** Enter option 2 from menu to encrypt a message.
 	You will be requested to enter the public key generated in step 1.
 	The encrypted text will be displayed.
 
-Step 3: Enter option 3 from the menu to decrypt the encrypted message.
+**Step 3:** Enter option 3 from the menu to decrypt the encrypted message.
 	You will be requested to enter the private key generated in step 1.
 	The decrypted text will be displayed.
 
